@@ -1,0 +1,23 @@
+{
+  "name": "fullcalendar-meteor-react",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "lint": "eslint imports/**/*"
+  },
+  "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-runtime": "^6.20.0",
+    "fullcalendar": "^3.4.0",
+    "meteor-node-stubs": "~0.2.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-addons-pure-render-mixin": "^15.5.2",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^7.0.1"
+  }
+}
